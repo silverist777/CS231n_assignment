@@ -1,0 +1,11 @@
+ipykernel
+jupyter
+matplotlib
+numpy
+scipy
+imageio
+Pillow
+scikit-image
+future
+six
+PyPDF2
